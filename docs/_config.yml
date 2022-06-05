@@ -31,7 +31,7 @@ twitter_username: padmanaban_c
 github_username:  ChocolatePadmanaban
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
