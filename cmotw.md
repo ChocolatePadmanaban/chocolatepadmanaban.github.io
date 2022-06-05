@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Golang Workedout Modules"
-permalink: /gomotw/
+title: "C Module of the week"
+permalink: /cmotw/
 ---
 
 - Text
@@ -9,5 +9,3 @@ permalink: /gomotw/
   - Formatting Text Paragraphs
 - Data Structures 
   - Enumeration Type 
-
-
